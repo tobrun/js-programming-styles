@@ -14,7 +14,7 @@ Each paradigm uses the same data and the same set of tasks so you can clearly se
 
 We work with an array of products, each containing:
 
-```json
+```js
 {
   name: string,
   price: number,
